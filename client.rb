@@ -1,4 +1,3 @@
-# Script 15.3 - client.rb
 
 # Include the library:
 require 'socket'

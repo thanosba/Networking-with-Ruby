@@ -1,4 +1,3 @@
-# Script 15.4 - http_test.rb
 
 # Include the library:
 require 'open-uri'

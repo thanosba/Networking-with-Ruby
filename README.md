@@ -1,5 +1,5 @@
 # Networking-with-Ruby
-Creating a Socket Server
+Creating a Socket Server connection
 
 Using Threads
 
